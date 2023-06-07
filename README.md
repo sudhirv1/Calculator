@@ -10,7 +10,7 @@ This is a simple calculator web app built using JavaScript, CSS, and HTML.
 
 ## Preview
 
-![Calculator Web App](<img width="1440" alt="Screenshot 2023-06-07 at 7 36 58 PM" src="https://github.com/sudhirv1/Calculator/assets/73853768/51a7d4f5-16cd-4bab-a869-13d0cd50ba04">)
+<img width="1440" alt="Calc Preview" src="https://github.com/sudhirv1/Calculator/assets/73853768/51a7d4f5-16cd-4bab-a869-13d0cd50ba04">
 
 ## Usage
 
